@@ -194,8 +194,7 @@ const submitPass = () => {
                     </div>
                     <div class="col-span-full flex flex-row-reverse">
                         <MazBtn @click="submitPass"
-                            class="bg-primary text-white font-medium p-2 col-span-3 snap-end reverse rounded">Ajouter un
-                            passe
+                            class="bg-primary text-white font-medium p-2 col-span-3 snap-end reverse rounded">Ajouter un passe
                         </MazBtn>
                     </div>
                 </form>
